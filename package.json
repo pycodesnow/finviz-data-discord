@@ -1,0 +1,24 @@
+{
+  "name": "finvizbot",
+  "version": "1.0.0",
+  "description": "gets data from finviz and serves discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "prashant yashpal",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinteractive/finviz-data-discord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/avinteractive/finviz-data-discord/issues"
+  },
+  "homepage": "https://github.com/avinteractive/finviz-data-discord#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "finviz": "0.0.3"
+  }
+}
